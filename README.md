@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Sergey</h1>
-<h3 align="center">A passionate frontend developer from Belarus</h3>
+<h1>Hello there 👋, I'm Sergey</h1>
+<h3>A passionate frontend developer from Belarus</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
@@ -18,10 +18,10 @@
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_frederlk_" height="30" width="40" />
   </a>
   <a href="https://vk.com/frederlk" target="blank">
-   <img align="center" src="https://img.icons8.com/office/344/vk-circled.png" alt="frederlk" height="35" width="35" />
+   <img align="center" src="https://img.icons8.com/office/344/vk-circled.png" alt="frederlk" height="30" width="30" />
   </a>
   <a href="https://t.me/Frederlk" target="blank">
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="frederlk" height="35" width="35" />
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="frederlk" height="30" width="30" />
   </a>
 </p>
 
