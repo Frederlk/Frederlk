@@ -61,6 +61,10 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
+  
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img align="center"   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
