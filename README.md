@@ -15,7 +15,7 @@
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ffb.svg?alt=media&token=9b82c793-1319-4cd3-a77c-9b675f758041" alt="petrinichshadow" height="30" width="30" />
   </a>
   <a href="https://instagram.com/_frederlk_/" target="blank">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Finst.svg?alt=media&token=8f0225ef-0c86-455f-af18-7b01f22010b8" alt="_frederlk_" height="30" width="40" />
+   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Finst.svg?alt=media&token=8f0225ef-0c86-455f-af18-7b01f22010b8" alt="_frederlk_" height="30" width="30" />
   </a>
   <a href="https://vk.com/frederlk" target="blank">
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fvk.svg?alt=media&token=81a1c0b1-94c7-4e58-b115-89cd80c8285f" alt="frederlk" height="30" width="30" />
