@@ -1,13 +1,13 @@
-<h1>Hello There, I'm Sergey</h1>
-<h3>A passionate Front-End Developer from Minks, Belarus</h3>
+<h1>Hello There, I'm Sergey!</h1>
+<h3>A passionate Front-End Developer from Minks, Belarus.</h3>
 
-- I’m currently learning **Node.js & Next.js**
+- I’m currently learning **Node.js & Next.js**;
 
-- Although I’m currently looking for any **new opportunities**
+- Although I’m currently looking for any **new opportunities**;
 
-- How to reach me: **petrinich.sergey@gmail.com**
+- How to reach me: **petrinich.sergey@gmail.com**;
 
-- I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**
+- I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
