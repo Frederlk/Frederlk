@@ -1,4 +1,4 @@
-<h1>Hello there 👋, I'm Sergey</h1>
+<h1>Hello there, I'm Sergey</h1>
 <h3>A passionate Front-End Developer from Minks, Belarus</h3>
 
 - 🔭 I’m currently working on **my portfolio**
