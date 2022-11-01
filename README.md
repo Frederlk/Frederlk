@@ -14,6 +14,7 @@
   <a href="https://fb.com/petrinichshadow" target="blank">
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ffb.svg?alt=media&token=9b82c793-1319-4cd3-a77c-9b675f758041" alt="petrinichshadow" height="40" width="40" />
   </a>
+  >
   <a href="https://instagram.com/_frederlk_/" target="blank">
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Finst.svg?alt=media&token=8f0225ef-0c86-455f-af18-7b01f22010b8" alt="_frederlk_" height="40" width="40" />
   </a>
