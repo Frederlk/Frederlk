@@ -27,7 +27,7 @@
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ftg.svg?alt=media&token=e4e9ca2e-3bbb-4ab6-a709-d691e96e4686" alt="frederlk" height="40" width="40" />
   </a>
   ·
-  <a href="[https://t.me/Frederlk](https://www.linkedin.com/in/petrinichsergey/)" target="blank">
+  <a href="https://www.linkedin.com/in/petrinichsergey/" target="blank">
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fin.svg?alt=media&token=abf5144e-942e-4563-84c4-f7686a3291f4" alt="petrinichsergey" height="40" width="40" />
   </a>
 </p>
