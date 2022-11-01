@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/petrinichshadow" target="_blank">
+  <a href="https://www.facebook.com/petrinichsergey" target="_blank">
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ffb.svg?alt=media&token=9b82c793-1319-4cd3-a77c-9b675f758041" alt="petrinichshadow" height="40" width="40" />
   </a>
   ·
