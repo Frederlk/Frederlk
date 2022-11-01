@@ -15,16 +15,16 @@
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ffb.svg?alt=media&token=9b82c793-1319-4cd3-a77c-9b675f758041" alt="petrinichshadow" height="30" width="40" />
   </a>
   <a href="https://instagram.com/_frederlk_/" target="blank">
-   <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Finst.svg?alt=media&token=8f0225ef-0c86-455f-af18-7b01f22010b8)" alt="_frederlk_" height="30" width="40" />
+   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Finst.svg?alt=media&token=8f0225ef-0c86-455f-af18-7b01f22010b8" alt="_frederlk_" height="30" width="40" />
   </a>
   <a href="https://vk.com/frederlk" target="blank">
-   <img align="center" src="[https://img.icons8.com/office/344/vk-circled.png](https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fvk.svg?alt=media&token=81a1c0b1-94c7-4e58-b115-89cd80c8285f)" alt="frederlk" height="30" width="30" />
+   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fvk.svg?alt=media&token=81a1c0b1-94c7-4e58-b115-89cd80c8285f" alt="frederlk" height="30" width="30" />
   </a>
   <a href="https://t.me/Frederlk" target="blank">
-   <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644](https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ftg.svg?alt=media&token=e4e9ca2e-3bbb-4ab6-a709-d691e96e4686)" alt="frederlk" height="30" width="30" />
+   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ftg.svg?alt=media&token=e4e9ca2e-3bbb-4ab6-a709-d691e96e4686" alt="frederlk" height="30" width="30" />
   </a>
   <a href="[https://t.me/Frederlk](https://www.linkedin.com/in/petrinichsergey/)" target="blank">
-   <img align="center" src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644](https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ftg.svg?alt=media&token=e4e9ca2e-3bbb-4ab6-a709-d691e96e4686)](https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fin.svg?alt=media&token=abf5144e-942e-4563-84c4-f7686a3291f4)" alt="petrinichsergey" height="30" width="30" />
+   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fin.svg?alt=media&token=abf5144e-942e-4563-84c4-f7686a3291f4" alt="petrinichsergey" height="30" width="30" />
   </a>
 </p>
 
