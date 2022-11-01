@@ -1,13 +1,13 @@
 <h1>Hello there, I'm Sergey</h1>
 <h3>A passionate Front-End Developer from Minks, Belarus</h3>
 
-- 🔭 I’m currently learning **Node.js & Next.js**
+- I’m currently learning **Node.js & Next.js**
 
-- 🌱 I’m currently searching for **job**
+- Although I’m currently looking for any **new opportunities**
 
-- 📫 How to reach me: **petrinich.sergey@gmail.com**
+- How to reach me: **petrinich.sergey@gmail.com**
 
-- ⚡ Fun fact: **I love to play guitar / piano. Also I'm a Dungeon Master in D&D**
+- Fun fact: **I love to play guitar / piano. Also I'm a Dungeon Master in D&D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
