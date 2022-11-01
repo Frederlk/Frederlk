@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently upgrading **my skills**
 
-- 📫 How to reach me **petrinichshadow@gmail.com**
+- 📫 How to reach me **petrinich.sergey@gmail.com**
 
 - ⚡ Fun fact **I love to play guitar / piano. Also I'm a Dungeon Master in D&D**
 
