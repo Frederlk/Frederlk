@@ -1,7 +1,7 @@
 <h1>Hello There, I'm Sergey!</h1>
-<h3>A passionate Front-End Developer from Minks, Belarus.</h3>
+<h3>A passionate Front-end Developer from Minsk, Belarus.</h3>
 
-- My <a href="https://petrinich-sergey----portfolio.web.app/" target="_blank">**Portfolio**</a>
+- My <a href="https://petrinich-sergey----portfolio.web.app/" target="_blank">**Portfolio**</a>;
 
 - I’m currently learning **Node.js & Next.js**;
 
