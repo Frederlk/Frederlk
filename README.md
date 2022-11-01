@@ -7,7 +7,7 @@
 
 - How to reach me: **petrinich.sergey@gmail.com**
 
-- Fun fact: **I love to play guitar / piano. Also I'm a Dungeon Master in D&D**
+- I love to play Guitar & Piano. Also I'm a DM in Dungeons & Dragons
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
