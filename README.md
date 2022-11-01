@@ -51,7 +51,7 @@
   </a> 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/344/typescript.png)](https://www.svgrepo.com/show/374144/typescript.svg" alt="typescript" width="50" height="50"/> 
+    <img  align="center"  src="https://img.icons8.com/color/344/typescript.png)](https://www.svgrepo.com/show/374144/typescript.svg" alt="typescript" width="50" height="50"/> 
   </a> 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
