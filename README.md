@@ -1,15 +1,31 @@
 <h1>Hello There, I'm Sergey!</h1>
 <h3>A passionate Front-end Developer from Minsk, Belarus.</h3>
 
-- My <a href="https://petrinich-sergey----portfolio.web.app/" target="_blank">**Portfolio**</a>;
+- My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a>;
 
-- I’m currently learning **Node.js & Next.js**;
+- I’m currently learning **Next.js & several Back-end technologies**;
 
 - Although I’m currently looking for any **new opportunities**;
 
 - How to reach me: **petrinich.sergey@gmail.com**;
 
 - I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**.
+
+<h3>Technical Skills:</h3>
+
+- <strong>Programming Languages:</strong> HTML • CSS • SASS •	JavaScript (ES6) • TypeScript;
+
+- <strong>Libraries & Frameworks:</strong> React •	Redux • Redux Toolkit • Node.js •	Tailwind • Bootstrap • JQuery;
+ 
+- <strong>Version control systems:</strong> Git •	GitHub • GitLab;
+ 
+- <strong>Tools & Platforms:</strong> Firebase •	Heroku •	Vercel •	Gulp;
+ 
+- <strong>IDE:</strong> VSCode •	SublimeText;
+ 
+- <strong>Compilers:</strong> Webpack •	ESBuild;
+ 
+- <strong>Design:</strong> Figma •	Marsy;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,51 +48,4 @@
   <a href="https://www.linkedin.com/in/petrinichsergey/" target="_blank">
    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fin.svg?alt=media&token=abf5144e-942e-4563-84c4-f7686a3291f4" alt="petrinichsergey" height="40" width="40" />
   </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
- 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://img.icons8.com/color/344/typescript.png)](https://www.svgrepo.com/show/374144/typescript.svg" alt="typescript" width="52" height="52"/> 
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img align="center"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
-  </a> 
 </p>
