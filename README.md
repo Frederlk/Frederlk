@@ -1,5 +1,5 @@
 <h1>Hello There, I'm Sergey!</h1>
-<h3>A passionate Front-end Developer from Minsk, Belarus.</h3>
+<h3>A keen Front-end Developer from Minsk, Belarus.</h3>
 
 - My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a> & my <a href="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey.appspot.com/o/Petrinich%20Sergey%20CV.pdf?alt=media&token=4a882438-a141-49f3-85b4-a052900ba03e">**Resume**</a>;
 
