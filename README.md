@@ -5,8 +5,6 @@
 
 - I’m currently learning **Next.js & several Back-end technologies**;
 
-- Although I’m currently looking for any **new opportunities**;
-
 - How to reach me: **petrinich.sergey@gmail.com**;
 
 - I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**.
