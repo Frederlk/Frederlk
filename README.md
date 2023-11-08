@@ -13,15 +13,15 @@
 
 - <strong>Programming Languages:</strong> HTML • CSS • SASS •	JavaScript (ES6) • TypeScript;
 
-- <strong>Libraries & Frameworks:</strong> React •	Redux • Redux Toolkit • Node.js •	Tailwind • Bootstrap • JQuery;
+- <strong>Libraries & Frameworks:</strong> React • Next.js • Redux • Redux Toolkit • Node.js • Styled-Components • Tailwind • Bootstrap • JQuery • Handlebars;
  
-- <strong>Version control systems:</strong> Git •	GitHub • GitLab;
+- <strong>Version control systems:</strong> Git • Bitbucket • GitHub • Github Desktop • GitLab;
  
-- <strong>Tools & Platforms:</strong> Firebase •	Heroku •	Vercel •	Gulp;
+- <strong>Tools & Platforms:</strong> ChatGPT • Firebase • Jenkins • Swagger • Jira • Vercel • Heroku • Gulp;
  
 - <strong>IDE:</strong> VSCode •	SublimeText;
  
-- <strong>Compilers:</strong> Webpack •	ESBuild;
+- <strong>Compilers:</strong> Turbopack • Webpack •	ESBuild;
  
 - <strong>Design:</strong> Figma •	Marsy;
 
