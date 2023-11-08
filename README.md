@@ -3,7 +3,7 @@
 
 - My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a> & my <a href="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey.appspot.com/o/Petrinich%20Sergey%20CV.pdf?alt=media&token=a0d29e15-bcb4-4c44-8e53-10a8956a63d0">**Resume**</a>;
 
-- I’m currently learning **Next.js & several Back-end technologies**;
+- I’m currently focused on a **Dungeons & Dragons** project;
 
 - How to reach me: **petrinich.sergey@gmail.com**;
 
@@ -13,9 +13,9 @@
 
 - <strong>Programming Languages:</strong> HTML • CSS • SASS •	JavaScript (ES6) • TypeScript;
 
-- <strong>Libraries & Frameworks:</strong> React • Next.js • Redux • Redux Toolkit • Node.js • Styled-Components • Tailwind • Bootstrap • JQuery • Handlebars;
+- <strong>Libraries & Frameworks:</strong> React • Next.js • Redux • Redux Toolkit • Zustand • MobX • Formik • Storybook • Node.js • Styled-Components • Tailwind • Bootstrap • JQuery • Handlebars;
  
-- <strong>Version control systems:</strong> Git • Bitbucket • GitHub • Github Desktop • GitLab;
+- <strong>Version control systems:</strong> Git • Bitbucket • GitHub • GitLab;
  
 - <strong>Tools & Platforms:</strong> ChatGPT • Firebase • Jenkins • Swagger • Jira • Vercel • Heroku • Gulp;
  
