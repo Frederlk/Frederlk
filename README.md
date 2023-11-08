@@ -1,7 +1,7 @@
 <h1>Hello There, I'm Sergey!</h1>
 <h3>A keen Front-end Developer from Minsk, Belarus.</h3>
 
-- My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a> & my <a href="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey.appspot.com/o/Petrinich%20Sergey%20CV.pdf?alt=media&token=a0d29e15-bcb4-4c44-8e53-10a8956a63d0">**Resume**</a>;
+- My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a> & my <a href="[https://firebasestorage.googleapis.com/v0/b/petrinich-sergey.appspot.com/o/Petrinich%20Sergey%20CV.pdf?alt=media&token=a0d29e15-bcb4-4c44-8e53-10a8956a63d0](https://drive.google.com/file/d/1Po1ml66IBa3TbWuR_QWOyqo5jUI9wdk0/view?usp=sharing)">**Resume**</a>;
 
 - I’m currently focused on a **Dungeons & Dragons** project;
 
