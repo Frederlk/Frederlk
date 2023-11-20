@@ -11,13 +11,13 @@
 
 <h3>Technical Skills:</h3>
 
-- <strong>Programming Languages:</strong> HTML • CSS • SASS •	JavaScript (ES6) • TypeScript;
+- <strong>Programming Languages:</strong> HTML • CSS • SASS •	JavaScript (ES6) • TypeScript • Markdown;
 
 - <strong>Libraries & Frameworks:</strong> React • Next.js • Redux • Redux Toolkit • Zustand • MobX • Formik • Storybook • Node.js • Styled-Components • Tailwind • Bootstrap • JQuery • Handlebars;
  
 - <strong>Version control systems:</strong> Git • Bitbucket • GitHub • GitLab;
  
-- <strong>Tools & Platforms:</strong> ChatGPT • Firebase • Jenkins • Swagger • Jira • Vercel • Heroku • Gulp;
+- <strong>Tools & Platforms:</strong> ChatGPT • Firebase • Supabase • Sanity • GraphQL • Apollo • MongoDB • Stripe • Jenkins • Swagger • Jira • Vercel • Heroku • Gulp;
  
 - <strong>IDE:</strong> VSCode •	SublimeText;
  
