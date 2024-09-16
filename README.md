@@ -9,21 +9,22 @@
 
 - I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**.
 
-<h3>Technical Skills:</h3>
+<h3>Technical Skills - [Full List](https://trusting-troodon-638.notion.site/Technologies-1037f60aac6e80c7bc4fe4af0462972b):</h3>
 
-- <strong>Programming Languages:</strong> HTML • CSS • SASS •	JavaScript (ES6) • TypeScript • Markdown;
-
-- <strong>Libraries & Frameworks:</strong> React • Next.js • Redux • Redux Toolkit • Zustand • MobX • Formik • Storybook • Node.js • Styled-Components • Tailwind • Bootstrap • JQuery • Handlebars;
- 
-- <strong>Version control systems:</strong> Git • Bitbucket • GitHub • GitLab;
- 
-- <strong>Tools & Platforms:</strong> ChatGPT • Firebase • Supabase • Sanity • GraphQL • Apollo • MongoDB • Stripe • Jenkins • Swagger • Jira • Vercel • Heroku • Gulp;
- 
-- <strong>IDE:</strong> VSCode •	SublimeText;
- 
-- <strong>Compilers:</strong> Turbopack • Webpack •	ESBuild;
- 
-- <strong>Design:</strong> Figma •	Marsy;
+- **Languages:** JavaScript • TypeScript • HTML • CSS • SASS • Markdown;
+- **Front-end Frameworks & Libraries:** React • Next.js • React Native • Expo • Tailwind CSS;
+- **State & Form Management:** Zustand • Redux Toolkit • React Hook Form • Formik;
+- **Data Validation:** Zod • Yup;
+- **Data Fetching & API Tools:** Fetch API • Axios • React Query • GraphQL • Swagger;
+- **Internationalization:** next-intl;
+- **Databases & ORMs:** PostgreSQL • MySQL • Prisma;
+- **Authentication:** Supabase Auth • Clerk • Next Auth;
+- **Cloud & Deployment Services:** Supabase • Google Cloud • AWS • Vercel • Netlify;
+- **Version Control & CI/CD:** Git (GitHub, GitLab) • GitHub Actions • Husky • Jenkins;
+- **Testing & Code Quality:** Jest • ESLint • Prettier;
+- **Content Management Systems:** Builder.io • Sanity.io • Payload CMS;
+- **Design Tools:** Figma • Marsy;
+- **Payment Processing:** Stripe • PayPal;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
