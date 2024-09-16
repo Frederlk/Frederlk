@@ -9,7 +9,7 @@
 
 - I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**.
 
-<h3>Technical Skills - [Full List](https://trusting-troodon-638.notion.site/Technologies-1037f60aac6e80c7bc4fe4af0462972b):</h3>
+<h3>Technical Skills - <a href="[https://petrinich-sergey.web.app](https://trusting-troodon-638.notion.site/Technologies-1037f60aac6e80c7bc4fe4af0462972b" target="_blank">Full List</a>:</h3>
 
 - **Languages:** JavaScript • TypeScript • HTML • CSS • SASS • Markdown;
 - **Front-end Frameworks & Libraries:** React • Next.js • React Native • Expo • Tailwind CSS;
