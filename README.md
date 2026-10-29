@@ -1,5 +1,5 @@
 <h1>Hello There, I'm Sergey!</h1>
-<h3>A keen Front-end Developer from Minsk, Belarus.</h3>
+<h3>A keen Full-Stack Developer.</h3>
 
 - My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a> & my <a href="https://drive.google.com/file/d/1Po1ml66IBa3TbWuR_QWOyqo5jUI9wdk0/view?usp=drive_link">**Resume**</a>;
 
