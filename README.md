@@ -1,50 +1,31 @@
-<h1>Hello There, I'm Sergey!</h1>
-<h3>A keen Full-Stack Developer.</h3>
+# Sergey Petrinich
 
-- My <a href="https://petrinich-sergey.web.app" target="_blank">**Portfolio**</a> & my <a href="https://drive.google.com/file/d/1Po1ml66IBa3TbWuR_QWOyqo5jUI9wdk0/view?usp=drive_link">**Resume**</a>;
+**Lead Full-Stack Developer** · Remote, worldwide · Central European Time
 
-- I’m currently focused on a **Dungeons & Dragons** project;
+I build web products end to end: API, admin, interface and the infrastructure behind them.
 
-- How to reach me: **petrinich.sergey@gmail.com**;
+Lead full-stack developer with **6+ years** of experience, building production web apps since 2020. I joined UX MIND, a design agency, in February 2024 and lead its development: I run the technical side of client projects from estimate to launch. I have led 16 developers across my career, up to 4 at a time, and because the agency has no HR I also run hiring: 6 developers hired so far. My stack is TypeScript, Next.js, React, Prisma, PostgreSQL and Tailwind CSS. I review code, build with Claude Code every day and talk to clients directly.
 
-- I love to play **Guitar & Piano**. Also I'm a DM in **Dungeons & Dragons**.
+[Portfolio](https://sergey-petrinich.vercel.app) · [CV (PDF)](https://sergey-petrinich.vercel.app/Sergey-Petrinich-CV.pdf) · [CV (Markdown)](https://sergey-petrinich.vercel.app/cv.md) · [LinkedIn](https://www.linkedin.com/in/petrinichsergey) · [Telegram](https://t.me/Frederlk) · [petrinich.sergey@gmail.com](mailto:petrinich.sergey@gmail.com)
 
-<h3>Technical Skills - <a href="https://petrinich-sergey.web.app](https://trusting-troodon-638.notion.site/Technologies-1037f60aac6e80c7bc4fe4af0462972b" target="_blank">Full List</a>:</h3>
+## Core stack
 
-- **Languages:** JavaScript • TypeScript • HTML • CSS • SASS • Markdown;
-- **Front-end Frameworks & Libraries:** React • Next.js • React Native • Expo • Tailwind CSS;
-- **State & Form Management:** Zustand • Redux Toolkit • React Hook Form • Formik;
-- **Data Validation:** Zod • Yup;
-- **Data Fetching & API Tools:** Fetch API • Axios • React Query • GraphQL • Swagger;
-- **Internationalization:** next-intl;
-- **Databases & ORMs:** PostgreSQL • MySQL • Prisma;
-- **Authentication:** Supabase Auth • Clerk • Next Auth;
-- **Cloud & Deployment Services:** Supabase • Google Cloud • AWS • Vercel • Netlify;
-- **Version Control & CI/CD:** Git (GitHub, GitLab) • GitHub Actions • Husky • Jenkins;
-- **Testing & Code Quality:** Jest • ESLint • Prettier;
-- **Content Management Systems:** Builder.io • Sanity.io • Payload CMS;
-- **Design Tools:** Figma • Marsy;
-- **Payment Processing:** Stripe • PayPal;
+React · Next.js · TypeScript · Tailwind CSS · Claude Code · PostgreSQL · Docker
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/petrinichsergey" target="_blank">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ffb.svg?alt=media&token=9b82c793-1319-4cd3-a77c-9b675f758041" alt="petrinichshadow" height="40" width="40" />
-  </a>
-  ·
-  <a href="https://instagram.com/_frederlk_/" target="_blank">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Finst.svg?alt=media&token=8f0225ef-0c86-455f-af18-7b01f22010b8" alt="_frederlk_" height="40" width="40" />
-  </a>
-  ·
-  <a href="https://vk.com/frederlk" target="_blank">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fvk.svg?alt=media&token=81a1c0b1-94c7-4e58-b115-89cd80c8285f" alt="frederlk" height="40" width="40" />
-  </a>
-  ·
-  <a href="https://t.me/Frederlk" target="_blank">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Ftg.svg?alt=media&token=e4e9ca2e-3bbb-4ab6-a709-d691e96e4686" alt="frederlk" height="40" width="40" />
-  </a>
-  ·
-  <a href="https://www.linkedin.com/in/petrinichsergey/" target="_blank">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/petrinich-sergey----portfolio.appspot.com/o/_icons%2Fin.svg?alt=media&token=abf5144e-942e-4563-84c4-f7686a3291f4" alt="petrinichsergey" height="40" width="40" />
-  </a>
-</p>
+## Selected work
+
+- [OhBirdie!](https://sergey-petrinich.vercel.app/work/ohbirdie): SaaS for running American Mahjong events in the US and Canada, with public event pages, organizer and player areas, registration and waitlists, QR check-in, live tournaments, Stripe payments and messaging. The hard parts were two roles on one account, payments and live tournament rounds.
+- [NoaSpot API](https://sergey-petrinich.vercel.app/work/noaspot-api): The REST API behind NoaSpot, a curated travel guide for iOS: it serves cities, places, routes, saved places and semantic search, and feeds the app and the admin dashboard from one OpenAPI contract. The hard parts were search without a slow model call and district borders that stay consistent.
+- [TESL Decks](https://sergey-petrinich.vercel.app/work/tesl-decks): Free deck builder and card database for The Elder Scrolls: Legends, with 22 page routes, 1,233 cards and an English and Russian interface. It ships as a PWA and signs players in with Discord, Google, Steam or an email code. The hard parts were reading card data out of the game client, Steam sign-in and a deck code compatible with the game.
+- [Swiftbeauty](https://sergey-petrinich.vercel.app/work/swiftbeauty): Platform for the beauty industry with a directory of masters, a shop, a subscription video academy, live events and webinars, and reviews. I built most of the new Next.js app with Sanity, PostgreSQL and Stripe and the tooling to move the old PHP data. The hard parts were video access, linking Stripe to legacy members and planning the move of a live subscriber base.
+- [Alan Walker official site](https://sergey-petrinich.vercel.app/work/alan-walker-site): Official website of the artist Alan Walker: an animation-heavy story site with a 15-section home page, tour dates, community, partners, press kit and returns pages. It has no database and reads Shopify and Bandsintown. The hard parts were a market-aware shop API and cart, customs forms for three countries, and a Kubernetes delivery pipeline with a staging environment per pull request.
+
+Every project, with role and stack: [https://sergey-petrinich.vercel.app/work](https://sergey-petrinich.vercel.app/work)
+
+## Open source
+
+- [5etools](https://5e.tools) (2026): Improved the parser and fixed five bugs that broke the app in edge cases.
+- [Homebrewery](https://homebrewery.naturalcrit.com) (2026): Sped up rendering of 500+ page brews by about 320% with smart memoization and virtualization, and improved URL parsing and page navigation.
+- [ttg.club](https://ttg.club) (2026): Worked on parsing and Markdown output, improved the table and grid views for lists, and added better filters.
+
+<sub>Generated from [the portfolio's content](https://sergey-petrinich.vercel.app); edits here are overwritten.</sub>
