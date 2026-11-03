@@ -6,20 +6,20 @@
 
 Lead full-stack developer with **6+ years** of experience, building production web apps since 2020. I joined UX MIND, a design agency, in February 2024 and lead its development: I run the technical side of client projects from estimate to launch. I have led 16 developers across my career, up to 4 at a time, and because the agency has no HR I also run hiring: 6 developers hired so far. My stack is TypeScript, Next.js, React, Prisma, PostgreSQL and Tailwind CSS. I review code, build with Claude Code every day and talk to clients directly.
 
-**[Portfolio](https://sergey-petrinich.vercel.app)** · **[Download CV (PDF)](https://sergey-petrinich.vercel.app/Sergey-Petrinich-CV.pdf)** · [All projects](https://sergey-petrinich.vercel.app/work) · [Stack](https://sergey-petrinich.vercel.app/stack) · [Experience](https://sergey-petrinich.vercel.app/#experience)
+**[Portfolio](https://sergey-petrinich.vercel.app)** · **[Download CV (PDF)](https://sergey-petrinich.vercel.app/Sergey-Petrinich-Lead-Full-Stack-Developer-CV.pdf)** · [All projects](https://sergey-petrinich.vercel.app/work) · [Stack](https://sergey-petrinich.vercel.app/stack) · [Experience](https://sergey-petrinich.vercel.app/#experience)
 
 ## Core stack
 
-**[React](https://sergey-petrinich.vercel.app/work?tech=react)** _(75)_ · **[Next.js](https://sergey-petrinich.vercel.app/work?tech=next-js)** _(52)_ · **[TypeScript](https://sergey-petrinich.vercel.app/work?tech=typescript)** _(67)_ · **[Tailwind CSS](https://sergey-petrinich.vercel.app/work?tech=tailwind-css)** _(55)_ · **[Claude Code](https://sergey-petrinich.vercel.app/work?tech=claude-code)** _(42)_ · **[PostgreSQL](https://sergey-petrinich.vercel.app/work?tech=postgresql)** _(28)_ · **[Docker](https://sergey-petrinich.vercel.app/work?tech=docker)** _(25)_
+**[React](https://sergey-petrinich.vercel.app/work?tech=react)** _(75)_ · **[Next.js](https://sergey-petrinich.vercel.app/work?tech=next-js)** _(52)_ · **[TypeScript](https://sergey-petrinich.vercel.app/work?tech=typescript)** _(67)_ · **[Tailwind CSS](https://sergey-petrinich.vercel.app/work?tech=tailwind-css)** _(56)_ · **[Claude Code](https://sergey-petrinich.vercel.app/work?tech=claude-code)** _(42)_ · **[PostgreSQL](https://sergey-petrinich.vercel.app/work?tech=postgresql)** _(28)_ · **[Docker](https://sergey-petrinich.vercel.app/work?tech=docker)** _(25)_
 
 _The number is how many projects use it. Every technology, grouped and counted: [the stack page](https://sergey-petrinich.vercel.app/stack)._
 
 ## Experience
 
 - **Lead Full-Stack Developer**, UX MIND · _February 2024 – Present_
-- **Freelance Full-Stack Developer**, Freelance · _April 2025 – Present_
+- **Freelance Full-Stack Developer**, Self-employed · _April 2025 – Present_
 - **Front-End Developer**, Ceviant · _December 2022 – November 2023_
-- **Front-End Developer**, Tapston · _Autumn 2022 – December 2023_
+- **Front-End Developer**, Tapston · _December 2022 – December 2023_
 - **Self-taught Front-End Developer**, Portfolio · _September 2020 – November 2022_
 
 _Details, team sizes and projects per job: [experience on the portfolio](https://sergey-petrinich.vercel.app/#experience)._
@@ -47,6 +47,6 @@ _Details, team sizes and projects per job: [experience on the portfolio](https:/
 
 ## Contact
 
-**[petrinich.sergey@gmail.com](mailto:petrinich.sergey@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/petrinichsergey) · [Telegram](https://t.me/Frederlk) · [CV (PDF)](https://sergey-petrinich.vercel.app/Sergey-Petrinich-CV.pdf)
+**[petrinich.sergey@gmail.com](mailto:petrinich.sergey@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/petrinichsergey) · [Telegram](https://t.me/Frederlk) · [CV (PDF)](https://sergey-petrinich.vercel.app/Sergey-Petrinich-Lead-Full-Stack-Developer-CV.pdf)
 
 _For AI agents and recruiting tools: [llms.txt](https://sergey-petrinich.vercel.app/llms.txt) · [CV in Markdown](https://sergey-petrinich.vercel.app/cv.md) · [resume.json](https://sergey-petrinich.vercel.app/resume.json)._
