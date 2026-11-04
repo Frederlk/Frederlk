@@ -10,7 +10,7 @@ Lead full-stack developer with **6+ years** of experience, building production w
 
 ## Core stack
 
-**[React](https://sergey-petrinich.vercel.app/work?tech=react)** _(75)_ · **[Next.js](https://sergey-petrinich.vercel.app/work?tech=next-js)** _(52)_ · **[TypeScript](https://sergey-petrinich.vercel.app/work?tech=typescript)** _(67)_ · **[Tailwind CSS](https://sergey-petrinich.vercel.app/work?tech=tailwind-css)** _(56)_ · **[Claude Code](https://sergey-petrinich.vercel.app/work?tech=claude-code)** _(42)_ · **[PostgreSQL](https://sergey-petrinich.vercel.app/work?tech=postgresql)** _(28)_ · **[Docker](https://sergey-petrinich.vercel.app/work?tech=docker)** _(25)_
+**[React](https://sergey-petrinich.vercel.app/work?tech=react)** _(76)_ · **[Next.js](https://sergey-petrinich.vercel.app/work?tech=next-js)** _(53)_ · **[TypeScript](https://sergey-petrinich.vercel.app/work?tech=typescript)** _(68)_ · **[Tailwind CSS](https://sergey-petrinich.vercel.app/work?tech=tailwind-css)** _(57)_ · **[Claude Code](https://sergey-petrinich.vercel.app/work?tech=claude-code)** _(43)_ · **[PostgreSQL](https://sergey-petrinich.vercel.app/work?tech=postgresql)** _(28)_ · **[Docker](https://sergey-petrinich.vercel.app/work?tech=docker)** _(25)_
 
 _The number is how many projects use it. Every technology, grouped and counted: [the stack page](https://sergey-petrinich.vercel.app/stack)._
 
@@ -37,7 +37,7 @@ _Details, team sizes and projects per job: [experience on the portfolio](https:/
 - **[Alan Walker official site](https://sergey-petrinich.vercel.app/work/alan-walker-site)** · _Sole developer, 2025_ · [live site](https://www.alanwalker.com/en)  
   Official website of the artist Alan Walker: an animation-heavy story site with a 15-section home page, tour dates, community, partners, press kit and returns pages. It has no database and reads Shopify and Bandsintown. The hard parts were a market-aware shop API and cart, customs forms for three countries, and a Kubernetes delivery pipeline with a staging environment per pull request.
 
-**[Browse all 123+ projects](https://sergey-petrinich.vercel.app/work)**, filterable by technology, role and year.
+**[Browse all 124+ projects](https://sergey-petrinich.vercel.app/work)**, filterable by technology, role and year.
 
 ## Open source
 
