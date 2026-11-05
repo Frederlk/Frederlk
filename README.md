@@ -28,10 +28,10 @@ _Details, team sizes and projects per job: [experience on the portfolio](https:/
 
 - **[OhBirdie!](https://sergey-petrinich.vercel.app/work/ohbirdie)** · _Lead developer, 2026_ · [live site](https://ohbirdie.com)  
   SaaS for running American Mahjong events in the US and Canada, with public event pages, organizer and player areas, registration and waitlists, QR check-in, live tournaments, Stripe payments and messaging. The hard parts were two roles on one account, payments and live tournament rounds.
-- **[NoaSpot API](https://sergey-petrinich.vercel.app/work/noaspot-api)** · _Sole developer, 2026_  
-  The REST API behind NoaSpot, a curated travel guide for iOS: it serves cities, places, routes, saved places and semantic search, and feeds the app and the admin dashboard from one OpenAPI contract. The hard parts were search without a slow model call and district borders that stay consistent.
 - **[TESL Decks](https://sergey-petrinich.vercel.app/work/tesl-decks)** · _Sole developer, 2026_ · [live site](https://tesl-decks.com)  
   Free deck builder and card database for The Elder Scrolls: Legends, with 22 page routes, 1,233 cards and an English and Russian interface. It ships as a PWA and signs players in with Discord, Google, Steam or an email code. The hard parts were reading card data out of the game client, Steam sign-in and a deck code compatible with the game.
+- **[NoaSpot API](https://sergey-petrinich.vercel.app/work/noaspot-api)** · _Sole developer, 2026_  
+  The REST API behind NoaSpot, a curated travel guide for iOS: it serves cities, places, routes, saved places and semantic search, and feeds the app and the admin dashboard from one OpenAPI contract. The hard parts were search without a slow model call and district borders that stay consistent.
 - **[Swiftbeauty](https://sergey-petrinich.vercel.app/work/swiftbeauty)** · _Lead developer, 2025_ · [live site](https://swiftbeauty-app-dev.vercel.app)  
   Platform for the beauty industry with a directory of masters, a shop, a subscription video academy, live events and webinars, and reviews. I built most of the new Next.js app with Sanity, PostgreSQL and Stripe and the tooling to move the old PHP data. The hard parts were video access, linking Stripe to legacy members and planning the move of a live subscriber base.
 - **[Alan Walker official site](https://sergey-petrinich.vercel.app/work/alan-walker-site)** · _Sole developer, 2025_ · [live site](https://www.alanwalker.com/en)  
