@@ -4,7 +4,7 @@
 
 > **I build web products end to end: API, admin, interface and the infrastructure behind them.**
 
-Lead full-stack developer with **6+ years** of experience, building production web apps since 2020. I joined UX MIND, a design agency, in February 2024 and lead its development: I run the technical side of client projects from estimate to launch. I have led 16 developers across my career, up to 4 at a time, and because the agency has no HR I also run hiring: 6 developers hired so far. My stack is TypeScript, Next.js, React, Prisma, PostgreSQL and Tailwind CSS. I review code, build with Claude Code every day and talk to clients directly.
+Lead full-stack developer with **6+ years** of experience, building production web apps since 2020. I joined UX MIND, a design agency, in February 2024 and lead its development: I run the technical side of client projects from estimate to launch. I have led 16 developers across my career, up to 4 at a time, and because the agency has no HR I also run hiring: 6 developers hired so far. My stack is TypeScript, Next.js, React, Prisma, PostgreSQL and Tailwind CSS. I review code and talk to clients directly. I build with Claude Code every day under a spec-first process: a written plan before code, an independent review pass, and typecheck, lint and tests as merge gates.
 
 **[Portfolio](https://sergey-petrinich.vercel.app)** · **[Download CV (PDF)](https://sergey-petrinich.vercel.app/Sergey-Petrinich-Lead-Full-Stack-Developer-CV.pdf)** · [All projects](https://sergey-petrinich.vercel.app/work) · [Stack](https://sergey-petrinich.vercel.app/stack) · [Experience](https://sergey-petrinich.vercel.app/#experience)
 
